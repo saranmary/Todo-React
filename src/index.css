@@ -1,0 +1,96 @@
+
+.section{
+  margin: 150px 317px;
+  padding:40px;
+}
+
+.form{
+  background-color:aliceblue;
+  width:519px;
+  border-radius: 5px;
+  padding:40px;
+}
+
+
+h1{
+  text-align: center;
+  font-size: 40px;
+  margin-top: 0px;
+}
+
+.input{
+  text-align: center;
+}
+
+.text{
+  width:380px;
+  height:25px;
+  border-color: transparent;
+}
+
+.text:hover{
+  border-color: black;
+}
+
+.btn{
+  background-color:#a5d5f8;
+  border-color:transparent;
+  height:32px;
+  width:90px;
+  letter-spacing: 2px;
+  
+}
+
+.btn:hover{
+  background-color:cornflowerblue;
+  color:white;
+}
+
+.p{
+ width: 375px;
+ margin-left: 48px;
+ font-size: 18px;
+}
+
+.edit-btn{
+  color:lightgreen;
+  background-color: transparent;
+  border:none;
+}
+
+.edit-btn:hover{
+  color:green;
+}
+
+.delete-btn{
+  color:lightcoral;
+  background-color: transparent;
+  border:none;
+}
+
+.delete-btn:hover{
+  color:red;
+  
+}
+
+.clear-btn{
+  color: lightcoral;
+  background-color: transparent;
+  border:none;
+}
+
+.clear-btn:hover{
+  color: red;
+}
+
+.Change{
+  display:flex;
+  background-color: aliceblue;
+  margin-top: 30px;
+  letter-spacing: 2px;
+
+}
+.clear{
+  text-align: center;
+  font-size: 50px;
+}
